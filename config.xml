@@ -1,0 +1,12 @@
+<config>
+	<file
+		source_path="D:\Works\TestingTask_Veam\source"
+		destination_path="D:\Works\TestingTask_Veam\destination"
+		file_name="drawing.png"
+	/>
+	<file
+		source_path="D:\Works\TestingTask_Veam\source"
+		destination_path="D:\Works\TestingTask_Veam\destination"
+		file_name="server.log"
+	/>
+</config>
